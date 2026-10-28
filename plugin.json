@@ -1,0 +1,9 @@
+{
+  "id": "workspaceFramePulse",
+  "name": "Workspace Frame Pulse",
+  "description": "Briefly brightens the affected monitor's DMS frame on workspace or monitor-focus changes.",
+  "version": "0.1.0",
+  "author": "Local",
+  "type": "daemon",
+  "component": "./WorkspaceFramePulse.qml"
+}
